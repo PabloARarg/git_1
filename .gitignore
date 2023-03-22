@@ -1,3 +1,7 @@
+# Archivos ignorados
+*.html
+output
+
 # Prerequisites
 *.d
 
